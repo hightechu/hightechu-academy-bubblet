@@ -1,6 +1,6 @@
-# Bubblet - All in One for Healthy Living
+# :potable_water: Bubblet - All in One for Healthy Living :muscle:
 
-**2020 HighTechU Academy - Virtual Pilot** 
+**A Project Created during the 2020 HighTechU ECE Virtual Skills Academy Pilot** 
 
 ---
 
