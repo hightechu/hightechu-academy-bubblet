@@ -25,7 +25,7 @@
 
 ---
 
-### Made with :computer: using
+### Made on :computer: using
 TinkerCAD, Zoom, Slack, MURAL, and Google Slides
 
 ### Made with :heart: by
