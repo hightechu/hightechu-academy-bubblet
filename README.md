@@ -7,21 +7,21 @@
 ## **3D Model**
 [Download the Model](/model) | [View the Model](https://www.tinkercad.com/things/k4sJAlmo4ei-bubblet-cad)
 
-![](/model/model.png)
+![](/img/model.png)
 
 ---
 
 ## **Circuit Design**
 [Download the Circuit](/circuit) | [View the Circuit](https://www.tinkercad.com/things/7yH4XXFPmSv-bubblet-circuit)
 
-![](/circuit/circuit.png)
+![](/img/circuit.png)
 
 ---
 
 ## **Pitch Presentation**
 [Download the Presentation](/pitch)
 
-![](/pitch/pitch.png) 
+![](/img/pitch.png) 
 
 ---
 
