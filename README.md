@@ -5,21 +5,21 @@
 ---
 
 ## **3D Model**
-[Download the Model](/model) | [View the Model](https://www.tinkercad.com/things/k4sJAlmo4ei-bubblet-cad)
+[View the Model](https://www.tinkercad.com/things/k4sJAlmo4ei-bubblet-cad) | [Download the Model](/model)
 
 ![](/img/model.png)
 
 ---
 
 ## **Circuit Design**
-[Download the Circuit](/circuit) | [View the Circuit](https://www.tinkercad.com/things/7yH4XXFPmSv-bubblet-circuit)
+[View the Circuit](https://www.tinkercad.com/things/7yH4XXFPmSv-bubblet-circuit) | [Download the Circuit](/circuit)
 
 ![](/img/circuit.png)
 
 ---
 
 ## **Pitch Presentation**
-[Download the Presentation](/pitch)
+[View the Pitch](https://github.com/hightechu/hightechu-academy-bubblet/blob/master/pitch/bubblet-pitchdeck.pdf) | [Download the Pitch](/pitch)
 
 ![](/img/pitch.png) 
 
