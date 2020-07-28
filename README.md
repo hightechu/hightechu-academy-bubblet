@@ -4,17 +4,17 @@
 
 ---
 
-## **3D Model**
-[View the Model](https://www.tinkercad.com/things/k4sJAlmo4ei-bubblet-cad) | [Download the Model](/model)
-
-![](/img/model.png)
-
----
-
 ## **Circuit Design**
 [View the Circuit](https://www.tinkercad.com/things/7yH4XXFPmSv-bubblet-circuit) | [Download the Circuit](/circuit)
 
 ![](/img/circuit.png)
+
+---
+
+## **3D Model**
+[View the Model](https://www.tinkercad.com/things/k4sJAlmo4ei-bubblet-cad) | [Download the Model](/model)
+
+![](/img/model.png)
 
 ---
 
